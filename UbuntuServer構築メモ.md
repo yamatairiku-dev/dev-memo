@@ -19,6 +19,7 @@
 - [Operating Samba connected with macOS](https://patineboot.com/article/operating-samba-connected-with-macos/)
 - [【Ubuntu】Sambaの設定（ユーザー追加・パスワード設定など）](https://self-development.info/%E3%80%90ubuntu%E3%80%91samba%E3%81%AE%E8%A8%AD%E5%AE%9A%EF%BC%88%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%BF%BD%E5%8A%A0%E3%83%BB%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A%E3%81%AA/)
 - [Timemachine(netatalk 3.*)をUbuntu 20.04 LTSで構築する話](https://www.mmpp.org/archives/2779)
+- 2023-08-10 メモ追記　MacOSのアップデート後、ポート139も解放しないとTimemachineが使えなくなった
 # Wake-on-LANの設定
 - [LinuxでWake-on-LANのOS設定を有効化する](https://blog.freebsd-days.com/2020/08/enable-wol-on-linux/)
 # Sleep等の設定
